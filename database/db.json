@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Libro 1",
+      "author": "Juan Pablo Pachar",
+      "isbn": "10101010",
+      "img": "https://th.bing.com/th/id/R.681dd870ba4058db73b4487f1612ab35?rik=uZ6KjA3Jx82yKA&pid=ImgRaw&r=0"
+    },
+    {
+      "title": "Libro Prueba 1",
+      "author": "Autor 1",
+      "isbn": "50505050",
+      "img": "https://i.pinimg.com/originals/80/a5/1a/80a51a0b7293317a273207178aa12358.jpg",
+      "id": 2
+    },
+    {
+      "title": "Don Quijote",
+      "author": "Miguel de Cervantes",
+      "isbn": "10005000",
+      "img": "https://th.bing.com/th/id/OIP.XJGjSR8F4gku4BXXuWEUEwHaKe?pid=ImgDet&rs=1",
+      "id": 3
+    },
+    {
+      "title": "Libro Prueba 2",
+      "author": "Autor 2",
+      "isbn": "777666555",
+      "img": "https://i.pinimg.com/originals/80/a5/1a/80a51a0b7293317a273207178aa12358.jpg",
+      "id": 4
+    }
+  ]
+}
